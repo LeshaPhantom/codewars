@@ -1,4 +1,5 @@
 def is_digit(s:str)-> bool:
+
     try:
         float(s)
         return True 

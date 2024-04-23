@@ -15,5 +15,5 @@ def main():
     print(period_is_late_top(date(2016, 6, 13), date(2016, 7, 16), 35))
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
